@@ -1,0 +1,13 @@
+{
+  "destination": "Köln",
+  "pieces": 3,
+  "splitable": true,
+  "loading_window": {
+    "start": "2021-03-29T21:46:06.074Z",
+    "end": "2021-03-29T23:46:06.074Z"
+  },
+  "unloading_window": {
+    "start": "2021-03-30T21:46:06.074Z",
+    "end": "2021-03-30T23:46:06.074Z"
+  }
+}
